@@ -12,3 +12,7 @@
 **Today's Progress**: Created a PygLatin translator
 **Thoughts:** The CodeAcademy IDE is annoying to use
 
+### Day 2: May 1, 2017
+
+**Today's Progress**: Started to dive deeper into MongoDB for a side project
+**Thoughts:** Trying to apply my relational database ideology to NoSQL has made it a striggle but slow readin through documentation is very beneficial
