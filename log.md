@@ -27,3 +27,6 @@
 **Today's Progress**: Redid the mockup for the app but I am ging to build a fully fledged DB backend for all ideas garnered for my team
 
 
+###Day  May 4th, 2017
+**Today's Progress**: More and more functions!
+
