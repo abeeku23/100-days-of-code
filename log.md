@@ -30,3 +30,6 @@
 ###Day  May 4th, 2017
 **Today's Progress**: More and more functions!
 
+### May 5th 2017
+**Today's Progress**: Not much to report...I am still working on python functions
+
