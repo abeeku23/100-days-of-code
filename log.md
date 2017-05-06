@@ -23,13 +23,13 @@
 **Today's Progress**: Forgot to do this yesterday smh; Started with the mockup for a side project for a web app. This would be the first time I'm using a mock up app
 **Thoughts:** I could code this in HTML/CSS but I don't want to get bogged down with a lot of code only for my customers to change their opinion
 
-### Day 4 May 3rd, 2017
+### Day 4: May 3rd, 2017
 **Today's Progress**: Redid the mockup for the app but I am ging to build a fully fledged DB backend for all ideas garnered for my team
 
 
-###Day  May 4th, 2017
+###Day 5:  May 4th, 2017
 **Today's Progress**: More and more functions!
 
-### May 5th 2017
+###Day 6: May 5th 2017
 **Today's Progress**: Not much to report...I am still working on python functions
 
