@@ -27,9 +27,12 @@
 **Today's Progress**: Redid the mockup for the app but I am ging to build a fully fledged DB backend for all ideas garnered for my team
 
 
-###Day 5:  May 4th, 2017
+### Day 5:  May 4th, 2017
 **Today's Progress**: More and more functions!
 
-###Day 6: May 5th 2017
+### Day 6: May 5th 2017
 **Today's Progress**: Not much to report...I am still working on python functions
+
+### Day 7: May 6th 2017
+**Today's Progress**: Obtained the "Functions" badge with the Codeacademy Python track
 
