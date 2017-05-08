@@ -36,3 +36,9 @@
 ### Day 7: May 6th 2017
 **Today's Progress**: Obtained the "Functions" badge with the Codeacademy Python track
 
+### Day 8: May 7th 2017
+**Today's Progress**: started building a vacation calculation app in Python through Codeacademy
+
+### Day 9: May 8th 2017
+**Today's Progress** COMPLETED THE APP!
+
