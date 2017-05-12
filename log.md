@@ -41,12 +41,12 @@
 
 ### Day 9: May 8th 2017
 **Today's Progress** Python Lists & Dictionaries started
-### Day 9: May 9th 2017
+### Day 10: May 9th 2017
 **Today's Progress** Python Lists & Dictionaries; still going
 
-### Day 9: May 10th 2017
+### Day 11: May 10th 2017
 **Today's Progress** Python Lists & Dictionaries; still going
 
-### Day 9: May 11th 2017
+### Day 12: May 11th 2017
 **Today's Progress** Python Lists & Dictionaries completed
 
