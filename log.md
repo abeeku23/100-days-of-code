@@ -40,5 +40,13 @@
 **Today's Progress**: started building a vacation calculation app in Python through Codeacademy
 
 ### Day 9: May 8th 2017
-**Today's Progress** COMPLETED THE APP!
+**Today's Progress** Python Lists & Dictionaries started
+### Day 9: May 9th 2017
+**Today's Progress** Python Lists & Dictionaries; still going
+
+### Day 9: May 10th 2017
+**Today's Progress** Python Lists & Dictionaries; still going
+
+### Day 9: May 11th 2017
+**Today's Progress** Python Lists & Dictionaries completed
 
