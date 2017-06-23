@@ -59,3 +59,4 @@
 ### Day 15: May 17th 2017
 **Today's Progress** Needing some inspiration I am retaking some web dev classes
 **Thoughts:** I have horded a lot of classes over the past couple of year and the first one I'm taking is some quick HTML refresher courses. Codeacademy Python is on pause for now since I don't need it yet
+
