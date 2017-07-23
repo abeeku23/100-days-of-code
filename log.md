@@ -60,3 +60,11 @@
 **Today's Progress** Needing some inspiration I am retaking some web dev classes
 **Thoughts:** I have horded a lot of classes over the past couple of year and the first one I'm taking is some quick HTML refresher courses. Codeacademy Python is on pause for now since I don't need it yet
 
+
+### Day 0: July 23rd, 2017
+
+**Today's Progress**: Reset of the #100DaysofCode Challenge
+**Thoughts:** I decided to restart the challenge since I fell off almost 3 months ago. I have some tasks related to this as listed below:
+* CodeAcademy Ready
+* Swift Tutorials
+* Codeacademy Python
